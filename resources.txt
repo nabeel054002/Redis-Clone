@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/22563986/understanding-getinputstream-and-getoutputstream
